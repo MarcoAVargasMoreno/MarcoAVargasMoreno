@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ6ZmpzNmh3MDdxeWEzcnJjajY1YWpxbHRobXMzZm1sYmcwanJ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k2VKaO9QITTLVxtWa1/giphy.gif" width="90"/> Hey! Nice to see you.
+# <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTZ6ZmpzNmh3MDdxeWEzcnJjajY1YWpxbHRobXMzZm1sYmcwanJ1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/k2VKaO9QITTLVxtWa1/giphy.gif" width="110"/> Hey! Nice to see you.
 ![Banner mv](imgs/Banner_LinkedIn.png)
 
 
